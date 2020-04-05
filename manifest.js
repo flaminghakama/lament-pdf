@@ -69,7 +69,7 @@ altJazzSongs["Lament"] = {
                 "Violin I": { fileSuffix: "Violin-I" },
                 "Violin II": { fileSuffix: "Violin-II" },
                 "Viola": { fileSuffix: "Viola" },
-                "Cello": { fileSuffix: "Cello" },
+                "'Cello": { fileSuffix: "Cello" },
                 //"Bass": { fileSuffix: "Bass" },
             },
             scores: {
@@ -81,7 +81,7 @@ altJazzSongs["Lament"] = {
             },
             recordings: {
                 demo: {
-                    description: 'demo',
+                    description: 'MIDI for tracking (3 + 3/4 bars out front)',
                     url: 'https://soundcloud.com/david-elaine-alt/lament-midi'
                 },
                 reading: {
