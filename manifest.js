@@ -81,8 +81,12 @@ altJazzSongs["Lament"] = {
             },
             recordings: {
                 demo: {
-                    description: 'MIDI for tracking (3 + 3/4 bars out front)',
+                    description: 'MIDI rererence for tracking (3 + 3/4 bars out front), on SoundCloud',
                     url: 'https://soundcloud.com/david-elaine-alt/lament-midi'
+                },
+                reference: {
+                    description: 'MIDI rererence for tracking (3 + 3/4 bars out front), on Google Drive',
+                    url: 'https://drive.google.com/open?id=1guVq5wokpR059BbDVLa47UvLIGkxFcul'
                 },
                 reading: {
                     description: 'reading',
